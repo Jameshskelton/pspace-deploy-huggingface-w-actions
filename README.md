@@ -1,1 +1,3 @@
-# pspace-deploy-huggingface-w-actions
+# app-template
+
+The default Paperspace app template
